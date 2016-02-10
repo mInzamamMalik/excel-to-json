@@ -1,0 +1,15 @@
+function partOfObject(part, o) {
+	if (part && o) {
+		for(const propName in part)
+			if (part[propName] !== o[propName])
+				return false
+	}
+	else
+		return false
+
+	return true
+}
+
+module.exports = {
+	partOfObject
+}

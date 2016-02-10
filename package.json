@@ -1,0 +1,35 @@
+{
+  "name": "excel-to-json",
+  "version": "1.0.0",
+  "description": "excel to json convertsion example for nodejs expressjs npm",
+  "main": "index.js",
+  "dependencies": {
+    "excel-data": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "excel",
+    "to",
+    "json",
+    "xls",
+    "to",
+    "json",
+    "xlsx",
+    "to",
+    "json",
+    "convert",
+    "to",
+    "json",
+    "excel",
+    "convertion",
+    "express",
+    "nodejs",
+    "typescript"
+  ],
+  "author": "malikasinger1@gmail.com",
+  "license": "ISC"
+}
